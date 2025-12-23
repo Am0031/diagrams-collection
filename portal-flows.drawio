@@ -897,8 +897,8 @@
         <mxCell id="A54dYirfgRi43A43ixGj-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="Get/ Update model field by field&lt;div&gt;model.get(...)&lt;/div&gt;&lt;div&gt;model.set(...)&lt;/div&gt;" vertex="1">
           <mxGeometry height="58" width="179" x="3601" y="1162" as="geometry" />
         </mxCell>
-        <mxCell id="A54dYirfgRi43A43ixGj-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="Optional update store with query result" vertex="1">
-          <mxGeometry height="40" width="180" x="2680" y="919" as="geometry" />
+        <mxCell id="A54dYirfgRi43A43ixGj-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="Optional store update with query result" vertex="1">
+          <mxGeometry height="40" width="220" x="2680" y="919" as="geometry" />
         </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-79" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=light-dark(#000000,#00CC00);entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="A54dYirfgRi43A43ixGj-78">
           <mxGeometry relative="1" as="geometry">
