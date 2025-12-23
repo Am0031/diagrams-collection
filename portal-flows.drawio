@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="utAMfSpvk62Lh4efjaxR">
-    <mxGraphModel dx="1906" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -795,24 +795,8 @@
         <mxCell id="A54dYirfgRi43A43ixGj-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Site Page" vertex="1">
           <mxGeometry height="30" width="160" x="3480" y="325.5" as="geometry" />
         </mxCell>
-        <mxCell id="A54dYirfgRi43A43ixGj-48" edge="1" parent="1" source="A54dYirfgRi43A43ixGj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=light-dark(#000000,#CC0000);" target="A54dYirfgRi43A43ixGj-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3720" y="382" />
-              <mxPoint x="3720" y="308" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="GET Site Data&lt;div&gt;&lt;div&gt;params: mpan, contractType&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="3480" y="362" as="geometry" />
-        </mxCell>
-        <mxCell id="A54dYirfgRi43A43ixGj-50" edge="1" parent="1" source="A54dYirfgRi43A43ixGj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=light-dark(#000000,#CC0000);" target="A54dYirfgRi43A43ixGj-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3720" y="435" />
-              <mxPoint x="3720" y="308" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="GET Jobs&lt;div&gt;params: mpan, contractType&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="3480" y="415" as="geometry" />
@@ -820,22 +804,11 @@
         <mxCell id="A54dYirfgRi43A43ixGj-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Job Page" vertex="1">
           <mxGeometry height="30" width="160" x="3480" y="855" as="geometry" />
         </mxCell>
-        <mxCell id="A54dYirfgRi43A43ixGj-73" edge="1" parent="1" source="A54dYirfgRi43A43ixGj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="A54dYirfgRi43A43ixGj-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="selectedJob" vertex="1">
           <mxGeometry height="40" width="160" x="3480" y="894" as="geometry" />
         </mxCell>
-        <mxCell id="A54dYirfgRi43A43ixGj-74" edge="1" parent="1" source="A54dYirfgRi43A43ixGj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#CC0000);" target="A54dYirfgRi43A43ixGj-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-55" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Cancel form&lt;div&gt;Cancellation reason&lt;/div&gt;&lt;div&gt;Comment&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="158" x="3481" y="934" as="geometry" />
-        </mxCell>
-        <mxCell id="A54dYirfgRi43A43ixGj-75" edge="1" parent="1" source="A54dYirfgRi43A43ixGj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#CC0000);">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3840" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-56" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Edit form&lt;div&gt;Address, Contact,&lt;/div&gt;&lt;div&gt;Comment&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="158" x="3480" y="1001" as="geometry" />
@@ -898,7 +871,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="Get/ Update model field by field&lt;div&gt;model.get(...)&lt;/div&gt;&lt;div&gt;model.set(...)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78" width="160" x="3601" y="1162" as="geometry" />
+          <mxGeometry height="58" width="179" x="3601" y="1162" as="geometry" />
         </mxCell>
         <mxCell id="A54dYirfgRi43A43ixGj-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;" value="Update store with query result" vertex="1">
           <mxGeometry height="40" width="180" x="2680" y="885" as="geometry" />
